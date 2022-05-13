@@ -1,4 +1,5 @@
 type="text/javascript">  
 function msg(){  
- ("Hello Javatpoint");  
+ alert("Hello Javatpoint");  
 }  
+
